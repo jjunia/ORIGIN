@@ -49,7 +49,7 @@ APP分为话题社区系统和匹配交友系统。话题社区系统为用户�
 ## 产品愿景
 让大学生可以通过匿名的方式自由地展示自我，通过共同话题找到同类，通过地图走向线下会面，将网友转变成现实朋友，扩大交友圈。
 
-## 作品展示链接
+## 功能展示视频链接（！！！！！！！！！！！）
 [ORIGIN功能展示](https://v.youku.com/v_show/id_XNDE4MDY0NjQ4OA==.html?x=&sharefrom=android&sharekey=c2184bbc0fdfd336cfbd28d4cd8bd8764)
 
 ## 竞争对手&& 竞品分析
