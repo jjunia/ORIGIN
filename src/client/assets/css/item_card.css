@@ -1,0 +1,125 @@
+.item_card {
+  height: auto;
+  border-top: 1px solid #dcdfe6;
+  border-bottom: 1px solid #dcdfe6;
+  color: #606266;
+  background-color: #fff;
+  margin-top: 10px;
+  position: relative;
+}
+
+.item_card_name {
+  font-size: 15px;
+  padding: 15px;
+  margin: 0;
+  padding-left: 20px;
+  color: #409eff;
+  border-bottom: 1px solid #e4e7ed;
+}
+
+.item_card_name span:nth-child(1) {
+  position: absolute;
+  right: 30px;
+  font-size: 14px;
+}
+.item_card_name span:nth-child(2) {
+  position: absolute;
+  right: 14px;
+  font-size: 14px;
+}
+
+.item_card_content {
+  height: auto;
+}
+
+.item_card_like {
+  height: 42px;
+}
+
+.disLike {
+  fill: #4d4d4d;
+  animation: dislike 0.65s ease-in-out;
+}
+
+.yesLike {
+  fill: #e67070;
+  animation: like 0.65s ease-in-out;
+}
+
+.musicCard {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center
+}
+
+.musicInfo {
+  flex: 4;
+  margin-left: 28px;
+}
+
+.musicSinger {
+  margin-top: 4px;
+}
+
+.musicImg img {
+  max-width: 100%;
+}
+
+.musicImg {
+  flex: 2;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+#btn_like {
+  width: 25px;
+  height: 25px;
+  margin: 0;
+  float: right;
+  margin-right: 30px;
+  padding: 8px;
+}
+
+.item_card_music_content p {
+  margin: 0;
+  padding: 7px 14px 8px;
+}
+
+.item_musicPlay {
+  flex: 2;
+  text-align: center
+}
+
+.playIcon {
+  width: 20px;
+  height: 20px;
+  fill: rgb(113, 143, 241)
+}
+.itemImg{
+  width: 100%;
+  text-align: center
+}
+.itemImg img{
+  max-width: 100%
+}
+
+@keyframes like {
+  form {
+    transform: rotateY(0deg)
+  }
+
+  to {
+    transform: rotateY(360deg)
+  }
+}
+
+@keyframes dislike {
+  form {
+    transform: rotateY(0deg)
+  }
+
+  to {
+    transform: rotateY(-180deg)
+  }
+}
