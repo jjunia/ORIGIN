@@ -1,0 +1,13 @@
+{
+  "restartable": "rs",
+  "verbose": false,
+  "ignore": ["src/server/public/"],
+  "events": {
+    "restart": "rs"
+  },
+  "watch": ["src/server/"],
+  "env": {
+    "NODE_ENV": "development"
+  },
+  "ext": "js jade"
+}
