@@ -1,11 +1,12 @@
 ## 原点 ORIGIN
-> Design & Develop：JUNGA ( xujunjia98@163.com )
+> Design && Development：JUNGA ( xujunjia98@163.com )
 
 <div align=center>
 
 ![logo](./src/client/assets/logo.png)
 
 </div>
+> LOGO设计：追求简洁。两个圆形对称分布，中间为平行的、长短不一的长矩形，寓意两个人相互吸引，走向相遇。
 
 ## 市场分析
 - 陌生人社交市场大，绝大多数匿名APP的关注点在于线上聊天，没有线下见面的引导
